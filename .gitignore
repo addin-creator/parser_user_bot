@@ -1,0 +1,9 @@
+main.py
+.env
+__pycache__
+venv
+tests.session
+tests.session_journal
+bot.py
+run_with_pyside6.py
+test.py
