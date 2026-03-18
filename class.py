@@ -78,11 +78,7 @@ class Scraper:
         return 
 scr = Scraper(
     [
-        -1003139434293,
-        -1001769535202,
-        -1002442326603,
-        -1002081183087,
-        -1001639833661,
+    channels_id
     ],
     config.api_id.get_secret_value(),
     config.api_hash.get_secret_value(),
